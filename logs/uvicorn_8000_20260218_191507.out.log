@@ -1,0 +1,7 @@
+>>> CARREGANDO MAIN.PY ATUALIZADO COM DEBUG ENDPOINT <<<
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+INFO:     127.0.0.1:54445 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54461 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2025-12-15&pay_day=2025-12-25 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54472 - "GET /api/coop/conciliacao_entregas/pay_days HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49315 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49330 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2025-12-15&pay_day=2025-12-24 HTTP/1.1" 200 OK

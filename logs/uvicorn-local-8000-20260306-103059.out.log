@@ -1,0 +1,75 @@
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+INFO:     127.0.0.1:56350 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56350 - "GET /assets/index-DGXQo0CB.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49967 - "GET /assets/index-IoETuEyv.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51201 - "GET /vite.svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56350 - "GET /api/dre/financeiro?context=coop HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49967 - "GET /api/coop/resumo HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49967 - "GET /api/coop/conciliacao_entregas/pay_months HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49967 - "GET /api/coop/conciliacao_entregas/pay_days?month=2026-02 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "GET /api/coop/conciliacao_entregas/pay_days?month=2025-12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56350 - "GET /api/coop/resumo?ano=2026 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49967 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-27&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2025-12-22&pay_day=2025-12-26&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2025-12-26&farmacia=FARMACIA+INDIANA+LJ+235+(10190) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61392 - "GET /api/coop/conciliacao_entregas/pay_days?month=2026-02 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61392 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-27&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57486 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-26&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55428 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+235+(10190) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52754 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+235+(10190) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60569 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60569 - "GET /assets/index-BU0pWH6v.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64986 - "GET /assets/index-CqTllj5H.css HTTP/1.1" 200 OK
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+INFO:     127.0.0.1:54215 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54215 - "GET /assets/index-BU0pWH6v.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60799 - "GET /assets/index-CqTllj5H.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:53440 - "GET /vite.svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54215 - "GET /api/coop/resumo HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60799 - "GET /api/dre/financeiro?context=coop HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63251 - "GET /api/coop/conciliacao_entregas/pay_months HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60799 - "GET /api/coop/resumo?ano=2026 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63251 - "GET /api/coop/conciliacao_entregas/pay_days?month=2026-02 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63251 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-27&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58518 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-26&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58518 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+235+(10190) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62569 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+236+(10169) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61291 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+111+(10049) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53113 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+236+(10169) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64197 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+111+(10049) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49736 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+235+(10190) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60746 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+266+(10186) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57794 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+97+(10040) HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50298 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50298 - "GET /assets/index-B5Z9tPrl.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59393 - "GET /assets/index-CqTllj5H.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50693 - "GET /vite.svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50298 - "GET /api/dre/financeiro?context=coop HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59393 - "GET /api/coop/resumo HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59393 - "GET /api/coop/resumo?ano=2026 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53821 - "GET /api/coop/conciliacao_entregas/pay_months HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53821 - "GET /api/coop/conciliacao_entregas/pay_days?month=2026-02 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53821 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-27&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50362 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-26&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54195 - "GET /api/coop/conciliacao_entregas/farm_cycle_history?pay_day=2026-02-26&farmacia=FARMACIA+INDIANA+LJ+235+(10190) HTTP/1.1" 200 OK
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+INFO:     127.0.0.1:55303 - "GET /api/coop/conciliacao_entregas/pay_months HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52383 - "GET /api/coop/conciliacao_entregas/pay_days?month=2026-02 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52396 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-23&pay_day=2026-02-26&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52418 - "GET / HTTP/1.1" 200 OK

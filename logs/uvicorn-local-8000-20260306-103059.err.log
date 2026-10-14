@@ -1,0 +1,1008 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\rbt_m\\OneDrive\\dash_dre_flux']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [14824] using WatchFiles
+INFO:     Started server process [8052]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=27000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=28000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=27000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=29000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=28000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=29000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=30000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=30000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=31000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=31000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=32000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=32000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=33000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=33000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_adiantamentos_saldo?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2025-12-01&data_mov=lte.2025-12-31&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2025-12-01&data_mov=lte.2025-12-31&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=27000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2025-12-01&data_mov=lte.2025-12-31&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2025-12-22&data_mov=lte.2025-12-28&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=28000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2025-12-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=29000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=30000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-12-08&periodo_fim=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=31000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=32000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=33000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-12-08&periodo_fim=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_adiantamentos_saldo?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2025-12-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2025-12-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2025-12-08&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2025-12-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2025-12-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-06-17&periodo_fim=lte.2025-12-14&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&data_mov=not.is.null&data_mov=gte.2025-11-10&data_mov=lte.2025-12-14&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for connections to close. (CTRL+C to force quit)
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [8052]
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Started server process [51008]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [17560]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=27000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=28000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=29000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=27000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=30000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=28000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=31000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=29000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=32000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=30000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=33000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=31000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_adiantamentos_saldo?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=32000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=33000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=13000&limit=1000 "HTTP/2 400 Bad Request"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_adiantamentos_saldo?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+236+%2810169%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+236+%2810169%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+236+%2810169%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+111+%2810049%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+111+%2810049%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+111+%2810049%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+236+%2810169%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+236+%2810169%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+236+%2810169%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+111+%2810049%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+111+%2810049%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+111+%2810049%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+266+%2810186%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+266+%2810186%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+266+%2810186%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+97+%2810040%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+97+%2810040%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+97+%2810040%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=27000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=28000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=29000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_adiantamentos_saldo?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=16000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=17000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=18000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=19000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=20000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=21000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=22000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=23000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=24000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=25000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=26000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=27000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=28000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=29000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=30000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=31000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=32000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=%2A&offset=33000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_adiantamentos_saldo?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-27&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=periodo_inicio%2Cperiodo_fim&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&periodo_inicio=not.is.null&periodo_fim=not.is.null&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=plano_contas%2Centrada_saida%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov&centro_custo_final=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2025-08-19&periodo_fim=lte.2026-02-15&plano_contas=in.%28RECEITAS+COM+ENTREGAS%2CPAGAMENTO+DE+ENTREGADORES%2CDIARIA+DE+MOTOBOY%29&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&centro_custo=eq.FARMACIA+INDIANA+LJ+235+%2810190%29&data_mov=not.is.null&data_mov=gte.2026-01-12&data_mov=lte.2026-02-15&offset=0&limit=1000 "HTTP/2 200 OK"
+WARNING:  WatchFiles detected changes in 'backend\audit_conciliacao_overcount.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [17560]
+WARNING:  WatchFiles detected changes in 'backend\audit_conciliacao_overcount.py'. Reloading...
+Exception ignored in: <function BaseEventLoop.__del__ at 0x00000252DA2705E0>
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 766, in __del__
+    self.close()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\selector_events.py", line 104, in close
+    self._close_self_pipe()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\selector_events.py", line 111, in _close_self_pipe
+    self._remove_reader(self._ssock.fileno())
+AttributeError: '_WindowsSelectorEventLoop' object has no attribute '_ssock'
+C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\_subprocess.py:84: RuntimeWarning: coroutine 'Server.serve' was never awaited
+  pass
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+INFO:     Started server process [40984]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [40984]
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Started server process [53088]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [51972]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [51972]
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Started server process [20032]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [44356]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\diagnostico_prejuizo_coop_mes.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [44356]
+WARNING:  WatchFiles detected changes in 'backend\diagnostico_prejuizo_coop_mes.py'. Reloading...
+INFO:     Started server process [48212]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backups\snapshot_pre_coop_self_whitelist_20260306_184952\process_coop.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [48212]
+WARNING:  WatchFiles detected changes in 'backups\snapshot_pre_coop_self_whitelist_20260306_184952\process_coop.py', 'etl\process_coop.py'. Reloading...
+INFO:     Started server process [22400]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [1072]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'etl\process_coop.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1072]
+WARNING:  WatchFiles detected changes in 'etl\process_coop.py'. Reloading...
+INFO:     Started server process [14580]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [32356]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'etl\process_coop.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [32356]
+WARNING:  WatchFiles detected changes in 'etl\process_coop.py'. Reloading...
+INFO:     Started server process [58808]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [19764]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'etl\process_coop.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [19764]
+WARNING:  WatchFiles detected changes in 'etl\process_coop.py'. Reloading...
+INFO:     Started server process [30912]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [57980]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [57980]
+WARNING:  WatchFiles detected changes in 'backend\main.py'. Reloading...
+INFO:     Started server process [5524]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+ERROR:    Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 700, in lifespan
+    await receive()
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rbt_m\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+INFO:     Started server process [14160]
+INFO:     Waiting for application startup.
+INFO:backend.main:Database initialized (Client ready)
+INFO:backend.main:Routes: ['/openapi.json', '/docs', '/docs/oauth2-redirect', '/redoc', '/api/health', '/api/dre/financeiro', '/api/dre/gerencial', '/api/ranking_farmacias', '/api/ranking_farmacias_consolidado', '/api/coop/conciliacao_entregas/weeks', '/api/coop/conciliacao_entregas', '/api/coop/conciliacao_entregas/cash_weeks', '/api/coop/conciliacao_entregas/pay_days', '/api/coop/conciliacao_entregas/pay_months', '/api/coop/conciliacao_entregas/report', '/api/coop/conciliacao_entregas/farm_cycle_history', '/api/coop/conciliacao_entregas/export_xlsx', '/api/predictive/forecast', '/api/valuation/data', '/api/upload', '/api/users', '/api/users', '/api/users/{username}', '/api/login', '/assets', '/api/debug_ranking', '/api/adiantamentos', '/api/coop/resumo', '/{full_path:path}']
+INFO:     Application startup complete.
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=8000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=9000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=10000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=11000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=12000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=13000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=14000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=not.is.null&order=data_mov.desc&offset=15000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&order=data_mov.desc&data_mov=gte.2026-02-01&data_mov=lte.2026-02-28&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&data_mov=gte.2026-02-23&data_mov=lte.2026-03-01&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Ccentro_custo_raw%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cparceiro%2Creferente%2Cnumero_docto%2Cregistro_movimento%2Cregistro_compromisso%2Cdata_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.RATEIO&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim&plano_contas=eq.RECEITAS+COM+ENTREGAS&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor&entrada_saida=eq.ENTRADA&plano_contas=eq.RECEITAS+COM+ENTREGAS&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Ccentro_custo_raw%2Cparceiro%2Creferente%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=not.is.null&periodo_fim=not.is.null&periodo_fim=gte.2026-02-09&periodo_fim=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Ccentro_custo_raw%2Cparceiro%2Creferente%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_inicio=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=centro_custo_final%2Ccentro_custo_raw%2Cparceiro%2Creferente%2Cvalor_rateado%2Cperiodo_inicio%2Cperiodo_fim%2Cdata_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto&entrada_saida=eq.SA%C3%8DDA&plano_contas=eq.DIARIA+DE+MOTOBOY&linha_tipo=eq.RATEIO&periodo_fim=is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro_coop?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=1000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=2000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=3000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=4000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=5000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=6000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=%2A&offset=7000&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/dre_financeiro?select=data_mov%2Ccentro_custo%2Cvalor%2Cplano_contas%2Centrada_saida&data_mov=not.is.null&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov%2Cregistro_movimento%2Cregistro_compromisso%2Cnumero_docto%2Cdata_mov%2Cdata_pag&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_pag=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.SOLICITACAO+DE+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.SA%C3%8DDA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=data_mov%2Cvalor_mov&plano_contas=eq.ENTRADA+DE+REEMBOLSO+ADIANTAMENTO&linha_tipo=eq.MOV&entrada_saida=eq.ENTRADA&data_mov=gte.2026-02-09&data_mov=lte.2026-02-22&offset=0&limit=1000 "HTTP/2 200 OK"
+INFO:httpx:HTTP Request: GET https://luboqqopfjpxbuphyitw.supabase.co/rest/v1/coop_conciliacao_entregas?select=valor_mov&plano_contas=eq.PAGAMENTO+DE+ENTREGADORES&linha_tipo=eq.MOV&data_mov=eq.2026-02-26&offset=0&limit=1000 "HTTP/2 200 OK"

@@ -1,0 +1,14 @@
+Database initialization skipped. Please run init_schema.sql in Supabase Dashboard.
+INFO:     127.0.0.1:64836 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2025-12-22&pay_day=2025-12-26&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61813 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61813 - "GET /assets/index-B7FWz6vT.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64479 - "GET /assets/index-DV3io-bI.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56957 - "GET /vite.svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61813 - "GET /api/dre/financeiro?context=coop HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64479 - "GET /api/coop/resumo HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61813 - "GET /api/coop/resumo?ano=2026 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64747 - "GET /api/coop/conciliacao_entregas/pay_months HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64747 - "GET /api/coop/conciliacao_entregas/pay_days?month=2026-02 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64747 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2026-02-16&pay_day=2026-02-20&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58804 - "GET /api/coop/conciliacao_entregas/pay_days?month=2025-12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58804 - "GET /api/coop/conciliacao_entregas/report?cash_week_start=2025-12-22&pay_day=2025-12-26&mode=ciclo&only_divergent=false HTTP/1.1" 200 OK
